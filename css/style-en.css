@@ -24,6 +24,7 @@ p {
 }
 
 h1,
+h2,
 h3,
 h4,
 h5,
@@ -32,16 +33,6 @@ h6 {
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
-}
-
-
-h2
- {
-  font-family: 'Tajawal', sans-serif;
-  font-weight: 400;
-  margin: 0 0 20px 0;
-  padding: 0;
-  text-align: right;
 }
 
 /* Back to top button */
@@ -673,14 +664,6 @@ h2
   font-weight: 700;
 }
 
-#about .about-content p {
-  color: #838383;
-  font-family: 'Tajawal', sans-serif;
-  font-weight: 700;
-  text-align: right;
-  direction: rtl;
-}
-
 #about .about-content h3 {
   color: #696592;
   font-weight: 400;
@@ -1188,14 +1171,6 @@ h2
   margin-bottom: 2px;
   font-size: 18px;
   color: #fff;
-}
-
-#team .section-header p {
-  /* color: #838383; */
-  font-family: 'Tajawal', sans-serif;
-  font-weight: 700;
-  /* text-align: right; */
-  direction: rtl;
 }
 
 #team .member span {
